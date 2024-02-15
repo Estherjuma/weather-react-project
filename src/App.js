@@ -6,10 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Hello World from react
+         Weather App
         </h1>
-        <Weather city="paris" />
+        <Weather />
+        <p>This project was coded by Esther Juma and is open-sourced on Github</p>
       </header>
+     
     </div>
   );
 }
