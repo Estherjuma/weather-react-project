@@ -9,9 +9,11 @@ function App() {
          Weather App
         </h1>
         <Weather />
-        <p>This project was coded by Esther Juma and is open-sourced on Github</p>
+        <p>This project was coded by 
+          <a href="https://github.com/Estherjuma">Esther Juma</a> and is
+           <a href="https://github.com/Estherjuma/weather-react-project"> open-sourced on Github</a>
+           </p>
       </header>
-     
     </div>
   );
 }
