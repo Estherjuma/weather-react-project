@@ -10,8 +10,8 @@ function App() {
         </h1>
         <Weather />
         <p>This project was coded by 
-          <a href="https://github.com/Estherjuma">Esther Juma</a> and is
-           <a href="https://github.com/Estherjuma/weather-react-project"> open-sourced on Github</a>
+          <a href="https://github.com/Estherjuma" target="blank"> Esther Juma</a> and is
+           <a href="https://github.com/Estherjuma/weather-react-project" target="blank"> open-sourced on Github</a>
            </p>
       </header>
     </div>
